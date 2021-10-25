@@ -54,21 +54,17 @@ function LandingPageHeader() {
         <div className="filter" />
         <Container>
           <div className="motto text-center">
-            <h1>Example page</h1>
-            <h3>Start designing your landing page here.</h3>
+            <h1>CLINK! CLINK! CLINK!</h1>
+            <h3>CLINK” adalah sebuah inovasi berupa dashboard CLEANSING port OLT</h3>
             <br />
             <Button
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              href="https://clinkclink.netlify.app/"
               className="btn-round mr-1"
               color="neutral"
               target="_blank"
               outline
             >
-              <i className="fa fa-play" />
-              Watch video
-            </Button>
-            <Button className="btn-round" color="neutral" type="button" outline>
-              Download
+              Product
             </Button>
           </div>
         </Container>
