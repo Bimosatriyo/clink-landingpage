@@ -25,11 +25,11 @@ import {
   CardBody,
   CardFooter,
   CardTitle,
-  Form,
-  Input,
-  InputGroupAddon,
-  InputGroupText,
-  InputGroup,
+  // Form,
+  // Input,
+  // InputGroupAddon,
+  // InputGroupText,
+  // InputGroup,
   Container,
   Row,
   Col,
@@ -304,7 +304,7 @@ function LandingPage() {
             </Row>
           </Container>
         </div>
-        <div className="section landing-section">
+        {/* <div className="section landing-section">
           <Container>
             <Row>
               <Col className="ml-auto mr-auto" md="8">
@@ -351,7 +351,7 @@ function LandingPage() {
               </Col>
             </Row>
           </Container>
-        </div>
+        </div> */}
       </div>
       <DemoFooter />
     </>
